@@ -1,0 +1,28 @@
+
+.jumbotron {
+    background-color: rgba(232,71,86,255);
+    color: white;
+    border: none;
+    border-radius: 0;
+    }
+    
+    .card {
+        min-width: 350px;
+        max-width: 350px; 
+        margin-top: 20px;
+        margin-bottom: 20px;
+        box-shadow: 3px 3px 5px
+    }
+    
+    .card-deck {
+        margin-bottom: 15px;
+    }
+    .employee-card .card-header{
+        background: rgba(0,119,247,255);
+        color: white
+    }
+ 
+    
+    h2 {
+        color: white;
+    }
